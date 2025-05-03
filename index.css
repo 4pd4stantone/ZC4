@@ -1,7 +1,7 @@
 
 body {
     background-image: url("z.jpg");
-    background-size: 800px 800px;
+    background-size: auto;
     font-family: Nosifer;
     font-weight: bold;
     text-align: center;
@@ -45,7 +45,7 @@ p {
     background: darkgreen;
 }
 
-.whole {
-    max-width: 400px;
+.container {
+    height: 100vh;
 }
 
