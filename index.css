@@ -1,7 +1,7 @@
 
 body {
     background-image: url("z.jpg");
-    background-size: auto;
+    background-size: contain;
     font-family: Nosifer;
     font-weight: bold;
     text-align: center;
