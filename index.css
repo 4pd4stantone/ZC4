@@ -5,6 +5,7 @@ body {
     font-family: Nosifer;
     font-weight: bold;
     text-align: center;
+    height: 100vh;
 }
 
 h1 {
@@ -46,6 +47,6 @@ p {
 }
 
 .container {
-    height: 100vh;
+    max-width: 80%;
 }
 
