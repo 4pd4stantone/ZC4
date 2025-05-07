@@ -1,11 +1,11 @@
 
 body {
     background-image: url("z.jpg");
-    background-size: contain;
+    background-size: cover;
     font-family: Nosifer;
     font-weight: bold;
     text-align: center;
-    height: 100vh;
+    
 }
 
 h1 {
@@ -46,7 +46,5 @@ p {
     background: darkgreen;
 }
 
-.container {
-    max-width: 80%;
-}
+
 
